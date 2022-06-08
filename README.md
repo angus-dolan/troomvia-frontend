@@ -8,7 +8,7 @@ Web cryptocurrency portfolio manager, mobile support not added for main app yet.
 🚨 Work in progress
 
 ## Screenshots 
-![screenshot-4](screenshots/app-main.PNG)
-![screenshot-1](screenshots/login.PNG)
-![screenshot-2](screenshots/forgot-pass.PNG)
-![screenshot-3](screenshots/register.PNG)
+![screenshot-4](screenshots/app-main.png)
+![screenshot-1](screenshots/login.png)
+![screenshot-2](screenshots/forgot-pass.png)
+![screenshot-3](screenshots/register.png)
