@@ -1,29 +1,14 @@
 # troomvia
+Web cryptocurrency portfolio manager, mobile support not added for main app yet.
 
-## Project setup
+- Vue.js
+- TailwindCSS
+- Firebase
 
-```
-npm install
-```
+🚨 Work in progress
 
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshots 
+![screenshot-4](screenshots/app-main.PNG)
+![screenshot-1](screenshots/login.PNG)
+![screenshot-2](screenshots/forgot-pass.PNG)
+![screenshot-3](screenshots/register.PNG)
